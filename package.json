@@ -1,0 +1,20 @@
+{
+  "name": "wk9git",
+  "version": "1.0.0",
+  "description": "Test to Git-Render",
+  "keywords": [
+    "git",
+    "express",
+    "pcw"
+  ],
+  "license": "ISC",
+  "author": "pcw",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
